@@ -1,4 +1,4 @@
-# Microsistem-digital-
+# Microsistem-digital
 
 Microsistem digital cu Microprocesorul Intel 8086, realizat pentru materia Proiectarea Microsistemelor Digitale, capabil sa:
 - aprinda LED-uri
